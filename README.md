@@ -1,4 +1,4 @@
-# Functional programming in c++
+# Functional programming in c++ with 3IMI students
 
 ## Listing 1.0
 * [std::count] (#begins the counting from start to end) 
